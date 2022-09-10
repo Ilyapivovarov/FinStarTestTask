@@ -1,0 +1,10 @@
+﻿global using FinStarTestTask;
+global using FinStarTestTask.Application;
+global using FinStarTestTask.Application.Contexts;
+global using FinStarTestTask.Application.RequestHandlers;
+global using FinStarTestTask.Core.DbEntities;
+global using FinStarTestTask.Core.Dto;
+global using FinStarTestTask.Infrastructure;
+global using FinStarTestTask.Infrastructure.RequestHandlers;
+global using FinStarTestTask.Application.Repositories;
+global using FinStarTestTask.Core.Enums;
