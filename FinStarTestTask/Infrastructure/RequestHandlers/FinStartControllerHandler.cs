@@ -1,6 +1,4 @@
-﻿using FinStarTestTask.Infrastructure.Mapper;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.OpenApi.Extensions;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace FinStarTestTask.Infrastructure.RequestHandlers;
 

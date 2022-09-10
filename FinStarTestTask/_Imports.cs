@@ -8,3 +8,8 @@ global using FinStarTestTask.Infrastructure;
 global using FinStarTestTask.Infrastructure.RequestHandlers;
 global using FinStarTestTask.Application.Repositories;
 global using FinStarTestTask.Core.Enums;
+global using FinStarTestTask.Infrastructure.Contexts;
+global using FinStarTestTask.Infrastructure.CustomLogger;
+global using FinStarTestTask.Infrastructure.Extensions;
+global using FinStarTestTask.Infrastructure.Mapper;
+global using FinStarTestTask.Infrastructure.Repositories;

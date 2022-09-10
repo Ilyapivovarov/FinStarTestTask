@@ -11,4 +11,6 @@ public sealed class FinStarTestTaskContext : DbContext, IFinStarTestTaskContext
     }
     
     public DbSet<Item> Items => Set<Item>();
+
+    public DbSet<LoggItem> LogItems => Set<LoggItem>();
 }

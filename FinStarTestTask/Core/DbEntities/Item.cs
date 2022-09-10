@@ -1,6 +1,6 @@
 ﻿namespace FinStarTestTask.Core.DbEntities;
 
-public sealed class Item
+public class Item
 {
     public long Id { get; set; }
 

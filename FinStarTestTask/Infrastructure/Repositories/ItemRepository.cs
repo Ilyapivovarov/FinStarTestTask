@@ -1,5 +1,4 @@
-﻿using FinStarTestTask.Infrastructure.Extensions;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace FinStarTestTask.Infrastructure.Repositories;
 
